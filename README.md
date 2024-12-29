@@ -1,2 +1,3 @@
 # keylogger_script
-This is Keylogger Simulation for educationel raisons, Don't try this shit at anyone Chennoufi !!
+
+This is Keylogger Simulation for educational purposes, Don't try this shit at anyone !!
